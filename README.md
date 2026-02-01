@@ -2,20 +2,12 @@
 
 ![Callical screenshot](https://github.com/user-attachments/assets/cb378fb1-4954-4391-b503-43f567b2a952)
 
-A simple, open-source flashcard app. Paste text or upload files (text and images), generate flashcards with the OpenAI API, edit them, and review with keyboard shortcuts.
-
-## Features
-
-- **Generate decks** from text or uploaded files (text + images) using GPT
-- **Edit cards** in a deck before saving
-- **Review mode** — flip with click or **Space**, navigate with arrow buttons
-- **Dark/light theme** toggle
-- Data stored in your browser (localStorage); no account required
+A simple, open-source flashcard generator. Paste text or images, generate flashcards using the OpenAI API and review them.
 
 ## Prerequisites
 
 - [Node.js](https://nodejs.org/) 18+ (or [Bun](https://bun.sh/))
-- An [OpenAI API key](https://platform.openai.com/api-keys) for flashcard generation
+- [OpenAI API key](https://platform.openai.com/api-keys) for flashcard generation
 
 ## Quick start
 
@@ -52,16 +44,7 @@ A simple, open-source flashcard app. Paste text or upload files (text and images
    # or: bun run dev
    ```
 
-   Open [http://localhost:3000](http://localhost:3000). Create or generate a deck and start reviewing.
-
-## Scripts
-
-| Command        | Description              |
-|----------------|--------------------------|
-| `npm run dev`  | Start dev server         |
-| `npm run build`| Build for production     |
-| `npm run start`| Start production server  |
-| `npm run lint` | Run ESLint               |
+   Open [http://localhost:3000](http://localhost:3000).
 
 ## Tech stack
 
