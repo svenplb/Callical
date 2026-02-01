@@ -2,7 +2,7 @@
 
 ![Callical screenshot](https://github.com/user-attachments/assets/cb378fb1-4954-4391-b503-43f567b2a952)
 
-A simple, open-source flashcard generator. Paste text or images, generate flashcards using the OpenAI API and review them.
+A simple, open-source flashcard generator. Paste text or images, generate flashcards using the OpenAI API and review them instantly.
 
 ## Prerequisites
 
