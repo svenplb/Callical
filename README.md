@@ -56,4 +56,4 @@ A simple, open-source flashcard generator. Paste text or images, generate flashc
 
 ## License
 
-MIT — see [LICENSE](LICENSE).
+MIT - see [LICENSE](LICENSE).
