@@ -1,5 +1,7 @@
 # Callical
 
+![Callical screenshot](https://github.com/user-attachments/assets/cb378fb1-4954-4391-b503-43f567b2a952)
+
 A simple, open-source flashcard app. Paste text or upload files (text and images), generate flashcards with the OpenAI API, edit them, and review with keyboard shortcuts.
 
 ## Features
